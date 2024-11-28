@@ -9,3 +9,7 @@ pip install streamlit opencv-python-headless numpy deep_sort_realtime
 pip install torch
 
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+depois 
+
+streamlit run main.py
